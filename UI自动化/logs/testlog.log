@@ -1,0 +1,29 @@
+2018-05-03 20:58:54,426 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-03 20:58:54,426 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-03 20:59:46,696 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-03 20:59:46,696 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-03 20:59:54,605 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-03 20:59:58,440 - BrowserEngine - INFO - Open url: http://www.cosplay0.com
+2018-05-03 21:00:02,107 - BrowserEngine - INFO - Maximize the current window.
+2018-05-03 21:00:02,120 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-03 21:00:05,932 - browser_method - INFO - 开始截图并保存
+2018-05-03 21:00:05,958 - master station page - INFO - log in success.
+2018-05-03 21:00:05,984 - master station page - INFO - Now, Close and quit the browser.
+2018-05-03 21:01:47,604 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-03 21:01:47,604 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-03 21:01:55,705 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-03 21:01:57,753 - BrowserEngine - INFO - Open url: http://www.cosplay0.com
+2018-05-03 21:02:01,278 - BrowserEngine - INFO - Maximize the current window.
+2018-05-03 21:02:01,284 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-03 21:02:06,329 - browser_method - INFO - 开始截图并保存
+2018-05-03 21:02:06,329 - master station page - INFO - log in success.
+2018-05-03 21:02:06,329 - master station page - INFO - Now, Close and quit the browser.
+2018-05-03 21:03:57,499 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-03 21:03:57,499 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-03 21:04:05,640 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-03 21:04:08,124 - BrowserEngine - INFO - Open url: http://www.cosplay0.com
+2018-05-03 21:04:11,650 - BrowserEngine - INFO - Maximize the current window.
+2018-05-03 21:04:11,658 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-03 21:04:15,248 - browser_method - INFO - 开始截图并保存
+2018-05-03 21:04:18,259 - master station page - INFO - log in success.
+2018-05-03 21:04:18,259 - master station page - INFO - Now, Close and quit the browser.
