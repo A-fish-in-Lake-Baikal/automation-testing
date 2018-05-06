@@ -3,8 +3,7 @@ import configparser
 import os.path
 import time
 from selenium import webdriver
-from framework.logger import Logger
-from framework.browser_method import Browser_method
+from uiautomation.framework.logger import Logger
 
 logger = Logger(logger="BrowserEngine").getlog()
 

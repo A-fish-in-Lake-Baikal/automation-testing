@@ -4,7 +4,7 @@ import os.path
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-from framework.logger import Logger
+from uiautomation.framework.logger import Logger
 
 logger = Logger(logger="browser_method").getlog()
 
@@ -72,7 +72,6 @@ class Browser_method(object):
     def alert_monit(self):
         try:
             alert = self.driver.switch_to.alert
-            self.hover("出现alert弹窗")
             logger.info(alert.text)
         except Exception as e:
             print(format(e))

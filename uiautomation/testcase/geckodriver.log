@@ -789,3 +789,56 @@ Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
 1525352660273	geckodriver::marionette	ERROR	Failed to stop browser process
+1525598989564	geckodriver	INFO	geckodriver 0.20.0
+1525598989579	geckodriver	INFO	Listening on 127.0.0.1:62603
+1525598991376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.xSEJc9Rw8EHH"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1525599002024	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+fatal runtime error: unsupported allocator request
+Assertion failure: [unhandlable oom] Failed to allocate object while tenuring., at z:/build/build/src/js/src/jscntxt.cpp:1650
+1525599047525	geckodriver	INFO	geckodriver 0.20.0
+1525599047541	geckodriver	INFO	Listening on 127.0.0.1:62639
+1525599049602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.sOAWuCsSko0q"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1525599051534	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GFX1-]: GFX: D3D11 detected a device reset in ResizeBuffers
+[GFX1-]: Could not resize the swapchain (0x556,0x307)
+out of memory: 0x0000000000008028 bytes requested
+1525599249523	geckodriver	INFO	geckodriver 0.20.0
+1525599249538	geckodriver	INFO	Listening on 127.0.0.1:62952
+1525599251404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.lVV4WayTQ0wg"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1525599254354	Marionette	INFO	Enabled via --marionette
+<jemalloc>: (malloc) Error initializing arena
+out of memory: 0x0000000000000030 bytes requested
+out of memory: 0x0000000000008028 bytes requested
+
+###!!! [Parent][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Failed buffer for 0, 0, 158, 232
+out of memory: 0x0000000000000410 bytes requested
+1525600282645	geckodriver	INFO	geckodriver 0.20.0
+1525600282676	geckodriver	INFO	Listening on 127.0.0.1:49947
+1525600284458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.LTkFXModlKcP"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1525600290998	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1525600299128	Marionette	INFO	Listening on port 49953
+1525600301006	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9152, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9152, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525600324297	geckodriver::marionette	ERROR	Failed to stop browser process

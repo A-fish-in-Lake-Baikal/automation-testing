@@ -1,10 +1,9 @@
 # coding=utf-8
 import time
 import unittest
-from selenium.webdriver.common.action_chains import ActionChains
-from framework.logger import Logger
-from framework.browser_engine import BrowserEngine
-from framework.browser_method import Browser_method
+from uiautomation.framework.logger import Logger
+from uiautomation.framework.browser_engine import BrowserEngine
+from uiautomation.framework.browser_method import Browser_method
 
 logger = Logger(logger="master station page").getlog()
 
@@ -34,7 +33,7 @@ class MasterStation(unittest.TestCase):
         method = Browser_method(self.driver)
         self.driver.find_element_by_xpath("//*[text()='动漫图片']").click()
         time.sleep(2)
-        method.screen_sysrq("专题内容")
+        method.screen_sysrq("专题图片")
         time.sleep(3)
         logger.info("log in success.")
 

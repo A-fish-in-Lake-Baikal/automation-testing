@@ -27,3 +27,26 @@
 2018-05-03 21:04:15,248 - browser_method - INFO - 开始截图并保存
 2018-05-03 21:04:18,259 - master station page - INFO - log in success.
 2018-05-03 21:04:18,259 - master station page - INFO - Now, Close and quit the browser.
+2018-05-06 17:29:48,720 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-06 17:29:48,720 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-06 17:30:47,478 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-06 17:30:47,478 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-06 17:34:09,257 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-06 17:34:09,257 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-06 17:34:52,743 - BrowserEngine - INFO - You had select Chrome browser.
+2018-05-06 17:34:52,743 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-06 17:39:06,859 - BrowserEngine - INFO - You had select Chrome browser.
+2018-05-06 17:39:06,859 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-06 17:48:30,733 - BrowserEngine - INFO - You had select Chrome browser.
+2018-05-06 17:48:30,733 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-06 17:48:35,420 - BrowserEngine - INFO - Starting Chrome browser.
+2018-05-06 17:48:39,939 - BrowserEngine - INFO - Open url: http://www.cosplay0.com
+2018-05-06 17:51:21,973 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-06 17:51:21,973 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-06 17:51:42,708 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-06 17:51:50,242 - BrowserEngine - INFO - Open url: http://www.cosplay0.com
+2018-05-06 17:51:54,234 - BrowserEngine - INFO - Maximize the current window.
+2018-05-06 17:51:54,234 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-06 17:51:57,875 - browser_method - INFO - 开始截图并保存
+2018-05-06 17:52:00,875 - master station page - INFO - log in success.
+2018-05-06 17:52:00,875 - master station page - INFO - Now, Close and quit the browser.
