@@ -1,8 +1,8 @@
 # 浏览器常用操作方法
 import time
 import os.path
+from selenium.common.exceptions import NoAlertPresentException
 from selenium.webdriver.common.action_chains import ActionChains
-from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from uiautomation.framework.logger import Logger
 
@@ -28,7 +28,10 @@ class Browser_method(object):
         self.driver.refresh()
         logger.info("刷新页面")
 
-
+    # 操作滚动条
+    def set_scrollTop(self,number):
+        js_ = "document.documentElement.scrollTop="+number  #number=0拖动到最顶部，无穷大则拖动到最底部
+        self.driver.execute_script(js_)
 
     # 进入iframe
     def go_iframe(self,frame):
@@ -69,13 +72,14 @@ class Browser_method(object):
             logger.error(u"出现异常", format(e))
 
     # alert弹出窗监控
-    @property
-    def alert_monit(self):
+    def is_alert_present(self):
         try:
-            alert = self.driver.switch_to.alert
-            logger.info(alert.text)
-        except Exception as e:
-            print(format(e))
+            self.driver.switch_to_alert()
+        except NoAlertPresentException as e:
+            return False
+        logger.info("出现弹窗")
+        self.screen_sysrq("warming")
+        self.driver.switch_to_alert().accept()
 
 
 # 鼠标方法

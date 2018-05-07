@@ -43,13 +43,23 @@ class MasterStation(unittest.TestCase):
 
     def test2(self):
         method = Browser_method(self.driver)
-        url = method.get_url()
-        page = request.Request(url)
-        page_info = request.urlopen(page).read().decode('utf-8')
-        soup = BeautifulSoup(page_info, 'html.parser')
-        links = soup.find_all('img',src=re.compile(r'.jpg$'))
-        for link in links:
-            print(link)
+        method.back()
+        btn1 = self.driver.find_element_by_xpath("//*[@id='main-slide']/div[4]/i[1]")
+        method.mouse_hover(btn1)
+        method.screen_sysrq("第一张")
+        btn2 = self.driver.find_element_by_xpath("//*[@id='main-slide']/div[4]/i[2]")
+        method.mouse_hover(btn2)
+        method.screen_sysrq("第二张")
+        btn3 = self.driver.find_element_by_xpath("//*[@id='main-slide']/div[4]/i[3]")
+        method.mouse_hover(btn3)
+        method.screen_sysrq("第三张")
+        method.set_scrollTop("10000")
+        method.screen_sysrq("首页底部")
+    def test3(self):
+        method = Browser_method(self.driver)
+        self.driver.find_element_by_xpath("//*[@id='homepage']/a[3]").click()
+        time.sleep(3)
+        method.is_alert_present()
 
 
 
