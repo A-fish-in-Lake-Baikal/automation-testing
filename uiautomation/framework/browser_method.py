@@ -77,18 +77,27 @@ class Browser_method(object):
             print(format(e))
 
 
-
 # 鼠标方法
-#     perform()
-#     执行所有ActionChains中存储的行为
-#     context_click()
-#     右击
-#     double_click()
-#     双击
-#     drag_and_drop()
-#     拖动
-    def hover(self,name):
-        actions = ActionChains(self.driver)
-        actions.move_to_element(name)
-        # self.driver.move_to_element()
-#     鼠标悬停
+    #     右击context_click()
+    def mouse_rightclick(self,name1):
+        ActionChains(self.driver).context_click(name1).perform()
+        logger.info("鼠标右击")
+    #     双击double_click()
+    def mouse_doubleclick(self,name2):
+        ActionChains(self.driver).double_click(name2).perform()
+        logger.info("鼠标双击")
+    #     拖动drag_and_drop()
+    def mouse_drag_and_drop(self,name3):
+        ActionChains(self.driver).drag_and_drop(name3).perform()
+        logger.info("鼠标拖动")
+    #     鼠标悬停move_to_element()
+    def mouse_hover(self,name4):
+        ActionChains(self.driver).move_to_element(name4).perform()
+        logger.info("鼠标悬停")
+
+# 操作cookie
+    #获取cookie
+    def get_cookie(self):
+        cookie = self.driver.get_cookies()
+        logger.info(cookie)
+        return cookie
