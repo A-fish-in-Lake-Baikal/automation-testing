@@ -1,6 +1,9 @@
 # coding=utf-8
 import time
 import unittest
+from urllib import request
+from bs4 import BeautifulSoup
+import re
 from uiautomation.framework.logger import Logger
 from uiautomation.framework.browser_engine import BrowserEngine
 from uiautomation.framework.browser_method import Browser_method
@@ -38,13 +41,15 @@ class MasterStation(unittest.TestCase):
         logger.info("log in success.")
 
 
-    '''def test2(self):
+    def test2(self):
         method = Browser_method(self.driver)
-        record = self.driver.find_element_by_xpath("//*[@class='png-icon p-history-icon']")
-        actions = ActionChains(self.driver)
-        actions.move_to_element(method)
-        time.sleep(3)
-        method.screen_sysrq("播放记录截图")'''
+        url = method.get_url()
+        page = request.Request(url)
+        page_info = request.urlopen(page).read().decode('utf-8')
+        soup = BeautifulSoup(page_info, 'html.parser')
+        links = soup.find_all('img',src=re.compile(r'.jpg$'))
+        for link in links:
+            print(link)
 
 
 

@@ -50,3 +50,57 @@
 2018-05-06 17:51:57,875 - browser_method - INFO - 开始截图并保存
 2018-05-06 17:52:00,875 - master station page - INFO - log in success.
 2018-05-06 17:52:00,875 - master station page - INFO - Now, Close and quit the browser.
+2018-05-06 18:14:23,505 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-06 18:14:23,505 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-06 18:14:40,943 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-06 18:14:43,288 - BrowserEngine - INFO - Open url: http://www.cosplay0.com
+2018-05-06 18:14:46,870 - BrowserEngine - INFO - Maximize the current window.
+2018-05-06 18:14:46,881 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-06 18:14:50,554 - browser_method - INFO - 开始截图并保存
+2018-05-06 18:14:53,569 - master station page - INFO - log in success.
+2018-05-06 18:14:53,585 - master station page - INFO - Now, Close and quit the browser.
+2018-05-06 18:25:09,479 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-06 18:25:09,479 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-06 18:25:17,088 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-06 18:25:19,498 - BrowserEngine - INFO - Open url: http://www.cosplay0.com
+2018-05-06 18:25:23,019 - BrowserEngine - INFO - Maximize the current window.
+2018-05-06 18:25:23,024 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-06 18:25:25,979 - browser_method - INFO - 开始截图并保存
+2018-05-06 18:25:28,979 - master station page - INFO - log in success.
+2018-05-06 18:25:29,104 - master station page - INFO - Now, Close and quit the browser.
+2018-05-06 18:28:26,896 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-06 18:28:26,896 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-06 18:28:34,600 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-06 18:28:36,417 - BrowserEngine - INFO - Open url: http://www.cosplay0.com
+2018-05-06 18:28:39,946 - BrowserEngine - INFO - Maximize the current window.
+2018-05-06 18:28:39,968 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-06 18:28:42,965 - browser_method - INFO - 开始截图并保存
+2018-05-06 18:28:45,965 - master station page - INFO - log in success.
+2018-05-06 18:28:46,090 - master station page - INFO - Now, Close and quit the browser.
+2018-05-06 18:29:49,419 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-06 18:29:49,419 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-06 18:29:57,059 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-06 18:29:59,239 - BrowserEngine - INFO - Open url: http://www.cosplay0.com
+2018-05-06 18:30:02,750 - BrowserEngine - INFO - Maximize the current window.
+2018-05-06 18:30:02,755 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-06 18:30:06,513 - browser_method - INFO - 开始截图并保存
+2018-05-06 18:30:09,513 - master station page - INFO - log in success.
+2018-05-06 18:30:09,622 - master station page - INFO - Now, Close and quit the browser.
+2018-05-06 18:32:38,296 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-06 18:32:38,296 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-06 18:32:45,812 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-06 18:32:47,894 - BrowserEngine - INFO - Open url: http://www.cosplay0.com
+2018-05-06 18:32:51,418 - BrowserEngine - INFO - Maximize the current window.
+2018-05-06 18:32:51,422 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-06 18:32:54,296 - browser_method - INFO - 开始截图并保存
+2018-05-06 18:32:57,312 - master station page - INFO - log in success.
+2018-05-06 18:32:57,405 - master station page - INFO - Now, Close and quit the browser.
+2018-05-06 18:33:34,265 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-06 18:33:34,265 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-06 18:33:41,734 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-06 18:33:44,168 - BrowserEngine - INFO - Open url: http://www.cosplay0.com
+2018-05-06 18:33:47,680 - BrowserEngine - INFO - Maximize the current window.
+2018-05-06 18:33:47,688 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-06 18:33:50,880 - browser_method - INFO - 开始截图并保存
+2018-05-06 18:33:53,880 - master station page - INFO - log in success.
+2018-05-06 18:33:54,052 - master station page - INFO - Now, Close and quit the browser.

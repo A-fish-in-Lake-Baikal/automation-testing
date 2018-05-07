@@ -51,6 +51,10 @@ class Browser_method(object):
         '''t = self.driver.title
         return t
 '''
+    def get_url(self):
+        url = self.driver.current_url
+        print(url)
+        return url
 
     # 获取浏览器版本号
     def get_version(self):
@@ -58,12 +62,9 @@ class Browser_method(object):
     # 截图
     def screen_sysrq(self,name):
         file_path = os.path.dirname(os.getcwd()) + '/Screenshots/'
-        # rq = time.strftime('%Y%m%d%H%M%S', time.localtime(time.time()))
-        # screen_name = file_path + rq + '.png'
         try:
             self.driver.get_screenshot_as_file(file_path+name+'.png')
             logger.info(u"开始截图并保存")
-
         except Exception as e:
             logger.error(u"出现异常", format(e))
 
