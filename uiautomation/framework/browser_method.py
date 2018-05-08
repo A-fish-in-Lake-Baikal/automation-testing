@@ -76,10 +76,11 @@ class Browser_method(object):
         try:
             self.driver.switch_to_alert()
         except NoAlertPresentException as e:
-            return False
-        logger.info("出现弹窗")
-        self.screen_sysrq("warming")
-        self.driver.switch_to_alert().accept()
+            logger.error("没有出现弹窗！")
+        finally:
+            logger.info("出现弹窗")
+            self.screen_sysrq("warming")
+            self.driver.switch_to_alert().accept()
 
 
 # 鼠标方法

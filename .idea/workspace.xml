@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90f4f944-768b-4a19-b37f-d77a05ed03cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uiautomation/Screenshots/warming.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/uiautomation/Screenshots/专题图片.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uiautomation/Screenshots/第一张.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uiautomation/Screenshots/第三张.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uiautomation/Screenshots/第二张.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uiautomation/Screenshots/首页底部.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uiautomation/config/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/uiautomation/config/config.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uiautomation/framework/browser_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/uiautomation/framework/browser_method.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uiautomation/logs/testlog.log" beforeDir="false" afterPath="$PROJECT_DIR$/uiautomation/logs/testlog.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uiautomation/testcase/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/uiautomation/testcase/geckodriver.log" afterDir="false" />
@@ -22,8 +27,8 @@
       <file leaf-file-name="test_mous.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/uiautomation/testcase/test_mous.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="66" column="19" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+            <state relative-caret-position="233">
+              <caret line="61" column="59" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
               <folding>
                 <element signature="e#15#26#0" expanded="true" />
               </folding>
@@ -31,11 +36,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="browser_method.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uiautomation/pageobjects/test1.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="browser_method.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/uiautomation/framework/browser_method.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="86" column="37" lean-forward="true" selection-start-line="86" selection-start-column="37" selection-end-line="86" selection-end-column="37" />
+            <state relative-caret-position="231">
+              <caret line="78" column="33" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
               <folding>
                 <element signature="e#12#23#0" expanded="true" />
               </folding>
@@ -46,7 +56,7 @@
       <file leaf-file-name="browser_engine.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/uiautomation/framework/browser_engine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
+            <state relative-caret-position="546">
               <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
               <folding>
                 <element signature="e#23#42#0" expanded="true" />
@@ -55,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.ini" pinned="false" current-in-tab="false">
+      <file leaf-file-name="config.ini" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/uiautomation/config/config.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="154">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -80,8 +90,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -99,6 +109,7 @@
         <option value="$PROJECT_DIR$/uiautomation/config/config.ini" />
         <option value="$PROJECT_DIR$/uiautomation/testcase/test_mous.py" />
         <option value="$PROJECT_DIR$/uiautomation/framework/browser_method.py" />
+        <option value="$PROJECT_DIR$/uiautomation/pageobjects/test1.html" />
       </list>
     </option>
   </component>
@@ -112,6 +123,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,7 +158,7 @@
               <item name="automation-testing" type="b2602c69:ProjectViewProjectNode" />
               <item name="automation-testing" type="462c0819:PsiDirectoryNode" />
               <item name="uiautomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Screenshots" type="462c0819:PsiDirectoryNode" />
+              <item name="pageobjects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="automation-testing" type="b2602c69:ProjectViewProjectNode" />
@@ -170,7 +182,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,27 +293,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_mous_py - 2018.05.06 at 18h 33m 56s.xml">
-      <configuration name="Unittests in test_mous.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_mous_py - 2018.05.07 at 21h 07m 38s.xml">
-      <configuration name="Unittests in test_mous.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_mous_py - 2018.05.07 at 21h 08m 48s.xml">
-      <configuration name="Unittests in test_mous.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_mous_py - 2018.05.07 at 21h 28m 53s.xml">
-      <configuration name="Unittests in test_mous.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_mous_MasterStation_test3 - 2018.05.07 at 21h 47m 04s.xml">
-      <configuration name="Unittests for test_mous.MasterStation.test3" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_mous_py - 2018.05.07 at 21h 48m 55s.xml">
-      <configuration name="Unittests in test_mous.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_mous_py - 2018.05.07 at 21h 53m 44s.xml">
-      <configuration name="Unittests in test_mous.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_test_mous_py - 2018.05.07 at 21h 57m 51s.xml">
       <configuration name="Unittests in test_mous.py" configurationId="tests" />
     </history-entry>
@@ -312,11 +302,32 @@
     <history-entry file="Unittests_in_test_mous_py - 2018.05.07 at 22h 00m 54s.xml">
       <configuration name="Unittests in test_mous.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test_mous_py - 2018.05.08 at 21h 18m 25s.xml">
+      <configuration name="Unittests in test_mous.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_mous_py - 2018.05.08 at 21h 20m 54s.xml">
+      <configuration name="Unittests in test_mous.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_mous_MasterStation_test3 - 2018.05.08 at 21h 22m 31s.xml">
+      <configuration name="Unittests for test_mous.MasterStation.test3" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_mous_py - 2018.05.08 at 21h 27m 32s.xml">
+      <configuration name="Unittests in test_mous.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_mous_py - 2018.05.08 at 21h 28m 43s.xml">
+      <configuration name="Unittests in test_mous.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_mous_py - 2018.05.08 at 21h 30m 43s.xml">
+      <configuration name="Unittests in test_mous.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_mous_py - 2018.05.08 at 21h 33m 24s.xml">
+      <configuration name="Unittests in test_mous.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20907739" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20907739" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50074404" side_tool="true" weight="0.32248062" />
       <window_info anchor="bottom" id="Version Control" order="7" />
@@ -339,6 +350,52 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/uiautomation/testcase/test_mous.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="826">
+          <caret line="66" column="19" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiautomation/framework/browser_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+          <folding>
+            <element signature="e#23#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiautomation/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiautomation/framework/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiautomation/framework/browser_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1204">
+          <caret line="86" column="37" lean-forward="true" selection-start-line="86" selection-start-column="37" selection-end-line="86" selection-end-column="37" />
+          <folding>
+            <element signature="e#12#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/uiautomation/testcase/test_mous.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
@@ -433,25 +490,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uiautomation/config/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uiautomation/Screenshots/第一张.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uiautomation/Screenshots/第三张.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uiautomation/Screenshots/第二张.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uiautomation/Screenshots/首页底部.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/uiautomation/logs/testlog.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -461,26 +499,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/uiautomation/framework/browser_engine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
+        <state relative-caret-position="546">
           <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
           <folding>
             <element signature="e#23#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uiautomation/Screenshots/专题图片.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uiautomation/Screenshots/warming.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uiautomation/testcase/test_mous.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="66" column="19" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
-          <folding>
-            <element signature="e#15#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -492,13 +514,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/uiautomation/Screenshots/warming.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/uiautomation/framework/browser_method.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="86" column="37" lean-forward="true" selection-start-line="86" selection-start-column="37" selection-end-line="86" selection-end-column="37" />
+        <state relative-caret-position="231">
+          <caret line="78" column="33" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
           <folding>
             <element signature="e#12#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiautomation/testcase/test_mous.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="61" column="59" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiautomation/pageobjects/test1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiautomation/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="59" />
         </state>
       </provider>
     </entry>

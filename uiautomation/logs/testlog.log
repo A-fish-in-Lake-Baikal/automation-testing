@@ -251,3 +251,122 @@
 2018-05-07 22:00:50,934 - browser_method - INFO - 出现弹窗
 2018-05-07 22:00:51,356 - browser_method - INFO - 开始截图并保存
 2018-05-07 22:00:51,372 - master station page - INFO - Now, Close and quit the browser.
+2018-05-08 21:17:07,674 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-08 21:17:07,686 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-08 21:17:55,285 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-08 21:18:02,501 - BrowserEngine - INFO - Open url: http://www.cosplay0.com
+2018-05-08 21:18:06,105 - BrowserEngine - INFO - Maximize the current window.
+2018-05-08 21:18:06,117 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-08 21:18:10,025 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:18:13,025 - master station page - INFO - log in success.
+2018-05-08 21:18:13,653 - browser_method - INFO - 后退
+2018-05-08 21:18:14,093 - browser_method - INFO - 鼠标悬停
+2018-05-08 21:18:14,489 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:18:14,765 - browser_method - INFO - 鼠标悬停
+2018-05-08 21:18:15,029 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:18:15,333 - browser_method - INFO - 鼠标悬停
+2018-05-08 21:18:15,693 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:18:16,285 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:18:20,006 - browser_method - INFO - 出现弹窗
+2018-05-08 21:18:20,206 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:18:20,234 - master station page - INFO - Now, Close and quit the browser.
+2018-05-08 21:20:24,831 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-08 21:20:24,831 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-08 21:20:33,501 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-08 21:20:35,858 - BrowserEngine - INFO - Open url: http://www.cosplay0.com
+2018-05-08 21:20:39,379 - BrowserEngine - INFO - Maximize the current window.
+2018-05-08 21:20:39,387 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-08 21:20:42,443 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:20:45,458 - master station page - INFO - log in success.
+2018-05-08 21:20:45,830 - browser_method - INFO - 后退
+2018-05-08 21:20:46,112 - browser_method - INFO - 鼠标悬停
+2018-05-08 21:20:46,565 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:20:46,845 - browser_method - INFO - 鼠标悬停
+2018-05-08 21:20:47,249 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:20:47,546 - browser_method - INFO - 鼠标悬停
+2018-05-08 21:20:47,812 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:20:48,218 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:20:51,267 - browser_method - INFO - 出现弹窗
+2018-05-08 21:20:51,573 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:20:51,578 - master station page - INFO - Now, Close and quit the browser.
+2018-05-08 21:22:09,819 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-08 21:22:09,819 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-08 21:22:18,580 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-08 21:22:21,039 - BrowserEngine - INFO - Open url: http://www.cosplay0.com
+2018-05-08 21:22:24,556 - BrowserEngine - INFO - Maximize the current window.
+2018-05-08 21:22:24,564 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-08 21:22:27,677 - browser_method - INFO - 出现弹窗
+2018-05-08 21:22:28,021 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:22:28,037 - master station page - INFO - Now, Close and quit the browser.
+2018-05-08 21:26:56,711 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-08 21:26:56,711 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-08 21:27:04,391 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-08 21:27:06,130 - BrowserEngine - INFO - Open url: http://www.cosplay0.com
+2018-05-08 21:27:09,643 - BrowserEngine - INFO - Maximize the current window.
+2018-05-08 21:27:09,659 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-08 21:27:12,903 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:27:15,919 - master station page - INFO - log in success.
+2018-05-08 21:27:16,341 - browser_method - INFO - 后退
+2018-05-08 21:27:16,650 - browser_method - INFO - 鼠标悬停
+2018-05-08 21:27:16,947 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:27:17,228 - browser_method - INFO - 鼠标悬停
+2018-05-08 21:27:17,540 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:27:17,806 - browser_method - INFO - 鼠标悬停
+2018-05-08 21:27:18,290 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:27:18,682 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:27:28,813 - master station page - INFO - Now, Close and quit the browser.
+2018-05-08 21:28:04,185 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-08 21:28:04,185 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-08 21:28:12,427 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-08 21:28:14,654 - BrowserEngine - INFO - Open url: http://www.cosplay0.com
+2018-05-08 21:28:18,181 - BrowserEngine - INFO - Maximize the current window.
+2018-05-08 21:28:18,193 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-08 21:28:22,425 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:28:25,426 - master station page - INFO - log in success.
+2018-05-08 21:28:26,019 - browser_method - INFO - 后退
+2018-05-08 21:28:26,332 - browser_method - INFO - 鼠标悬停
+2018-05-08 21:28:26,703 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:28:26,984 - browser_method - INFO - 鼠标悬停
+2018-05-08 21:28:27,359 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:28:27,625 - browser_method - INFO - 鼠标悬停
+2018-05-08 21:28:28,058 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:28:28,448 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:28:40,526 - master station page - INFO - Now, Close and quit the browser.
+2018-05-08 21:30:08,890 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-08 21:30:08,890 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-08 21:30:17,217 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-08 21:30:21,777 - BrowserEngine - INFO - Open url: http://www.cosplay0.com
+2018-05-08 21:30:25,310 - BrowserEngine - INFO - Maximize the current window.
+2018-05-08 21:30:25,325 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-08 21:30:28,584 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:30:31,594 - master station page - INFO - log in success.
+2018-05-08 21:30:32,172 - browser_method - INFO - 后退
+2018-05-08 21:30:32,469 - browser_method - INFO - 鼠标悬停
+2018-05-08 21:30:32,736 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:30:33,021 - browser_method - INFO - 鼠标悬停
+2018-05-08 21:30:33,333 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:30:33,616 - browser_method - INFO - 鼠标悬停
+2018-05-08 21:30:33,975 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:30:34,382 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:30:40,275 - browser_method - INFO - 出现弹窗
+2018-05-08 21:30:40,619 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:30:40,650 - master station page - INFO - Now, Close and quit the browser.
+2018-05-08 21:32:50,979 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-08 21:32:50,979 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com
+2018-05-08 21:32:58,461 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-08 21:33:00,390 - BrowserEngine - INFO - Open url: http://www.cosplay0.com
+2018-05-08 21:33:03,915 - BrowserEngine - INFO - Maximize the current window.
+2018-05-08 21:33:03,941 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-08 21:33:08,781 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:33:11,782 - master station page - INFO - log in success.
+2018-05-08 21:33:12,282 - browser_method - INFO - 后退
+2018-05-08 21:33:12,594 - browser_method - INFO - 鼠标悬停
+2018-05-08 21:33:12,771 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:33:13,052 - browser_method - INFO - 鼠标悬停
+2018-05-08 21:33:13,427 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:33:13,724 - browser_method - INFO - 鼠标悬停
+2018-05-08 21:33:14,162 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:33:14,521 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:33:20,399 - browser_method - INFO - 出现弹窗
+2018-05-08 21:33:20,798 - browser_method - INFO - 开始截图并保存
+2018-05-08 21:33:20,814 - master station page - INFO - Now, Close and quit the browser.

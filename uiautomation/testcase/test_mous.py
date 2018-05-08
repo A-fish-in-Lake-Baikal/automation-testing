@@ -55,9 +55,11 @@ class MasterStation(unittest.TestCase):
         method.screen_sysrq("第三张")
         method.set_scrollTop("10000")
         method.screen_sysrq("首页底部")
+        time.sleep(2)
+        method.set_scrollTop("0")
     def test3(self):
         method = Browser_method(self.driver)
-        self.driver.find_element_by_xpath("//*[@id='homepage']/a[3]").click()
+        self.driver.find_element_by_xpath("//*[text()='少女映画']").click()
         time.sleep(3)
         method.is_alert_present()
 
