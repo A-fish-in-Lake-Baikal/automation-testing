@@ -23,10 +23,9 @@ fp =open(HtmlFile,"wb")
 
 # discover方法
 
-suite = unittest.TestLoader().discover("testcase")
+suite = unittest.TestLoader().discover('./testcase',pattern='test*.py')
 
 if __name__=='__main__':
     #执行用例  
-    # runner=unittest.TextTestRunner()
     runner = HTMLTestRunner.HTMLTestRunner(stream=fp,title = u"RC2.3.3搜索功能测试报告",description = u"用例测试情况")
     runner.run(suite)
