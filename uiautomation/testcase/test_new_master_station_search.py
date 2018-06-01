@@ -6,7 +6,6 @@ from framework.logger import Logger
 from framework.browser_engine import BrowserEngine
 from framework.browser_method import Browser_method
 
-logger = Logger(logger="master station page").getlog()
 
 
 class Search(unittest.TestCase,Browser_method):
@@ -73,4 +72,5 @@ class Search(unittest.TestCase,Browser_method):
         time.sleep(2)
 
 if __name__ == '__main__':
+    logger = Logger(logger="master station search page").getlog()
     unittest.main()

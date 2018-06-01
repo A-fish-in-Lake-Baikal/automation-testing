@@ -8,7 +8,6 @@ from uiautomation.framework.logger import Logger
 from uiautomation.framework.browser_engine import BrowserEngine
 from uiautomation.framework.browser_method import Browser_method
 
-logger = Logger(logger="master station page").getlog()
 
 
 class MasterStation(unittest.TestCase):
@@ -66,4 +65,5 @@ class MasterStation(unittest.TestCase):
 
 
 if __name__ == '__main__':
+    logger = Logger(logger="testing").getlog()
     unittest.main()
