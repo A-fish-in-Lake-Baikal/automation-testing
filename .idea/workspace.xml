@@ -23,7 +23,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="printer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../python-exercise/expert-func/printer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="类接口.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../python-exercise/expert-func/类接口.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,7 +54,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../python-exercise" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -46,7 +65,6 @@
         <option value="$PROJECT_DIR$/uiautomation/framework/browser_engine.py" />
         <option value="$PROJECT_DIR$/uiautomation/config/config.ini" />
         <option value="$PROJECT_DIR$/uiautomation/testcase/test_mous.py" />
-        <option value="$PROJECT_DIR$/uiautomation/framework/browser_method.py" />
         <option value="$PROJECT_DIR$/uiautomation/pageobjects/test1.html" />
         <option value="$USER_HOME$/Desktop/code/jichu/testing" />
         <option value="$USER_HOME$/Desktop/code/jichu/io_test.py" />
@@ -78,14 +96,16 @@
         <option value="$PROJECT_DIR$/uiautomation/testcase/test_new_master_station.py" />
         <option value="$PROJECT_DIR$/uiautomation/testcase/test_new_master_station_search.py" />
         <option value="$PROJECT_DIR$/uiautomation/testcase/test_mous1.py" />
+        <option value="$PROJECT_DIR$/../python-exercise/expert-func/printer.py" />
+        <option value="$PROJECT_DIR$/uiautomation/framework/browser_method.py" />
+        <option value="$PROJECT_DIR$/../python-exercise/expert-func/类接口.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="677" />
+    <option name="width" value="697" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -101,24 +121,12 @@
           <expand>
             <path>
               <item name="automation-testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation-testing" type="462c0819:PsiDirectoryNode" />
+              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="automation-testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation-testing" type="462c0819:PsiDirectoryNode" />
-              <item name="uiautomation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation-testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation-testing" type="462c0819:PsiDirectoryNode" />
-              <item name="uiautomation" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation-testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automation-testing" type="462c0819:PsiDirectoryNode" />
-              <item name="uiautomation" type="462c0819:PsiDirectoryNode" />
-              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="expert-func" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -154,7 +162,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Testrunner">
+  <component name="RunManager" selected="Python.类接口">
+    <configuration name="类接口" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Administrator\Desktop\selenium\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python-exercise/expert-func" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python-exercise/expert-func/类接口.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Testrunner" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="automation-testing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,24 +194,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uiautomation/testcase/Testrunner.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="UDP-server" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-exercise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python-exercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python-exercise/UDP-server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,19 +217,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="printer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python-exercise/WEB" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Administrator\Desktop\selenium\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python-exercise/expert-func" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python-exercise/WEB/hello.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python-exercise/expert-func/printer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,19 +254,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.UDP-server" />
       <item itemvalue="Python.server" />
-      <item itemvalue="Python.hello" />
       <item itemvalue="Python.cosplay_picture" />
       <item itemvalue="Python.Testrunner" />
+      <item itemvalue="Python.printer" />
+      <item itemvalue="Python.类接口" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.类接口" />
+        <item itemvalue="Python.printer" />
         <item itemvalue="Python.Testrunner" />
         <item itemvalue="Python.cosplay_picture" />
         <item itemvalue="Python.server" />
-        <item itemvalue="Python.hello" />
-        <item itemvalue="Python.UDP-server" />
       </list>
     </recent_temporary>
   </component>
@@ -308,18 +316,18 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="677" y="0" width="697" height="775" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23709168" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.4825493" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5022762" side_tool="true" visible="true" weight="0.32800853" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.3131783" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50223213" side_tool="true" weight="0.3131783" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49772382" weight="0.32248062" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49776787" weight="0.31761006" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.33178294" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -333,19 +341,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python爬虫开发与项目实战/sqlit.py" />
     <entry file="file://$PROJECT_DIR$/python基礎練習/lx.py" />
     <entry file="file://$PROJECT_DIR$/uiautomation/logs/testlog.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="156" column="53" selection-start-line="156" selection-start-column="53" selection-end-line="156" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uiautomation/framework/browser_engine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -460,29 +460,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uiautomation/testcase/firmware.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://E:/python/RC2.3.3/testcase/test_new_master_station.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2023" />
-      </provider>
-    </entry>
+    <entry file="file://E:/python/RC2.3.3/testcase/test_new_master_station.py" />
     <entry file="file://$PROJECT_DIR$/uiautomation/framework/module_one.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uiautomation/framework/browser_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
-          <caret line="78" column="33" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/uiautomation/testcase/test_mous1.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -509,6 +489,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
           <caret line="150" column="58" lean-forward="true" selection-start-line="150" selection-start-column="58" selection-end-line="150" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiautomation/framework/browser_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiautomation/framework/browser_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-518">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-exercise/expert-func/printer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-exercise/expert-func/类接口.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>

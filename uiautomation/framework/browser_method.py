@@ -11,7 +11,7 @@ logger = Logger(logger="browser_method").getlog()
 class Browser_method(object):
 
     def __init__(self,driver):
-        self.driver=driver
+        self.driver = driver
 
     # 返回上一页
     def back(self):
