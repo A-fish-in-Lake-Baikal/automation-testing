@@ -446,3 +446,44 @@
 2018-05-22 22:03:15,855 - browser_method - INFO - 出现弹窗
 2018-05-22 22:03:16,203 - browser_method - INFO - 开始截图并保存
 2018-05-22 22:03:16,208 - master station page - INFO - Now, Close and quit the browser.
+2018-12-04 20:59:33,422 - BrowserEngine - INFO - You had select Chrome browser.
+2018-12-04 20:59:33,422 - BrowserEngine - INFO - The test server url is: http://www.cosplay8.com/
+2018-12-04 20:59:36,491 - BrowserEngine - INFO - Starting Chrome browser.
+2018-12-04 20:59:53,946 - BrowserEngine - INFO - Open url: http://www.cosplay8.com/
+2018-12-04 20:59:55,062 - BrowserEngine - INFO - Maximize the current window.
+2018-12-04 20:59:55,062 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-12-04 21:04:02,699 - BrowserEngine - INFO - You had select Chrome browser.
+2018-12-04 21:04:02,699 - BrowserEngine - INFO - The test server url is: http://www.cosplay8.com/
+2018-12-04 21:04:04,882 - BrowserEngine - INFO - Starting Chrome browser.
+2018-12-04 21:04:20,083 - BrowserEngine - INFO - Open url: http://www.cosplay8.com/
+2018-12-04 21:04:21,203 - BrowserEngine - INFO - Maximize the current window.
+2018-12-04 21:04:21,203 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-12-04 21:07:23,931 - BrowserEngine - INFO - You had select Chrome browser.
+2018-12-04 21:07:23,932 - BrowserEngine - INFO - The test server url is: http://www.cosplay8.com/
+2018-12-04 21:07:26,137 - BrowserEngine - INFO - Starting Chrome browser.
+2018-12-04 21:10:25,191 - BrowserEngine - INFO - Open url: http://www.cosplay8.com/
+2018-12-04 21:10:26,309 - BrowserEngine - INFO - Maximize the current window.
+2018-12-04 21:10:26,310 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-12-04 21:20:38,534 - BrowserEngine - INFO - You had select Chrome browser.
+2018-12-04 21:20:38,534 - BrowserEngine - INFO - The test server url is: http://www.cosplay8.com/
+2018-12-04 21:20:40,706 - BrowserEngine - INFO - Starting Chrome browser.
+2018-12-04 21:20:56,448 - BrowserEngine - INFO - Open url: http://www.cosplay8.com/
+2018-12-04 21:20:57,568 - BrowserEngine - INFO - Maximize the current window.
+2018-12-04 21:20:57,569 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-12-04 21:22:04,408 - BrowserEngine - INFO - You had select Chrome browser.
+2018-12-04 21:22:04,408 - BrowserEngine - INFO - The test server url is: http://www.cosplay8.com/
+2018-12-04 21:22:06,523 - BrowserEngine - INFO - Starting Chrome browser.
+2018-12-04 21:22:24,092 - BrowserEngine - INFO - Open url: http://www.cosplay8.com/
+2018-12-04 21:22:25,214 - BrowserEngine - INFO - Maximize the current window.
+2018-12-04 21:22:25,215 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-12-04 21:22:34,509 - testing - INFO - 成功打开新闻页面.
+2018-12-04 21:22:36,511 - testing - INFO - Now, Close and quit the browser.
+2018-12-04 21:23:33,974 - BrowserEngine - INFO - You had select Chrome browser.
+2018-12-04 21:23:33,975 - BrowserEngine - INFO - The test server url is: http://www.cosplay8.com/
+2018-12-04 21:23:36,106 - BrowserEngine - INFO - Starting Chrome browser.
+2018-12-04 21:23:51,402 - BrowserEngine - INFO - Open url: http://www.cosplay8.com/
+2018-12-04 21:23:52,517 - BrowserEngine - INFO - Maximize the current window.
+2018-12-04 21:23:52,518 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-12-04 21:23:52,518 - testing - INFO - Now, Open the browser.
+2018-12-04 21:23:57,902 - testing - INFO - 成功打开新闻页面.
+2018-12-04 21:23:59,903 - testing - INFO - Now, Close and quit the browser.

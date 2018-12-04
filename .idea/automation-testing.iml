@@ -2,11 +2,15 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 3.6 (venv)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.6 (python-exercise)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="code" />
     <orderEntry type="module" module-name="python-exercise" />
     <orderEntry type="module" module-name="Django_web" />
     <orderEntry type="module" module-name="RC2.3.3" />
+    <orderEntry type="module" module-name="spider" />
+    <orderEntry type="module" module-name="python-exercise" />
+    <orderEntry type="module" module-name="ProxyPool" />
+    <orderEntry type="module" module-name="MT" />
   </component>
 </module>

@@ -22,22 +22,58 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/automation_testing$selenium_wait.coverage" NAME="selenium-wait Coverage Results" MODIFIED="1531617669584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../python-exercise/RC2.3.3/lx" />
+    <SUITE FILE_PATH="coverage/automation_testing$beautifulsoup.coverage" NAME="beautifulsoup Coverage Results" MODIFIED="1531311758308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../spider/python爬虫开发与项目实战/beautfulsoup" />
+    <SUITE FILE_PATH="coverage/automation_testing$app.coverage" NAME="app Coverage Results" MODIFIED="1531531851732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/untitled" />
+    <SUITE FILE_PATH="coverage/automation_testing$jiep.coverage" NAME="jiep Coverage Results" MODIFIED="1531542789612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../spider/python爬虫开发与项目实战/requests" />
+    <SUITE FILE_PATH="coverage/automation_testing$la.coverage" NAME="la Coverage Results" MODIFIED="1531565936927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../spider/python爬虫开发与项目实战/requests" />
+    <SUITE FILE_PATH="coverage/automation_testing$ip.coverage" NAME="代理ip批量测试 Coverage Results" MODIFIED="1531229844476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../spider/python爬虫开发与项目实战" />
+    <SUITE FILE_PATH="coverage/automation_testing$manage.coverage" NAME="manage Coverage Results" MODIFIED="1531533734669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/untitled" />
+    <SUITE FILE_PATH="coverage/automation_testing$maoyantop100.coverage" NAME="maoyantop100 Coverage Results" MODIFIED="1531536184845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../spider/python爬虫开发与项目实战/requests" />
+    <SUITE FILE_PATH="coverage/automation_testing$IP.coverage" NAME="代理IP测试 Coverage Results" MODIFIED="1531832263296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../spider/python爬虫开发与项目实战" />
+    <SUITE FILE_PATH="coverage/automation_testing$browser_engine.coverage" NAME="browser_engine Coverage Results" MODIFIED="1531615374695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../python-exercise/RC2.3.3/framework" />
+    <SUITE FILE_PATH="coverage/automation_testing$test_all.coverage" NAME="test_all Coverage Results" MODIFIED="1531229552744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/automation_testing$run.coverage" NAME="run Coverage Results" MODIFIED="1531831424050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ProxyPool" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="printer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../python-exercise/expert-func/printer.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="portal.html" pinned="false" current-in-tab="true">
+        <entry file="file://D:/MT/portal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state relative-caret-position="182">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="类接口.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../python-exercise/expert-func/类接口.py">
+      <file leaf-file-name="my.js" pinned="false" current-in-tab="false">
+        <entry file="file://D:/MT/my.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="322">
+              <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,31 +83,24 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
+        <option value="Flask Main" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../python-exercise" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ProxyPool" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../python-exercise/WEB/html1.html" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../spider/python爬虫开发与项目实战/requests/la.py" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python爬虫开发与项目实战/hello mono.html" />
-        <option value="$PROJECT_DIR$/python爬虫开发与项目实战/sqlit.py" />
-        <option value="$PROJECT_DIR$/UI自动化/testcase/test_mous.py" />
-        <option value="$PROJECT_DIR$/uiautomation/framework/browser_engine.py" />
-        <option value="$PROJECT_DIR$/uiautomation/config/config.ini" />
-        <option value="$PROJECT_DIR$/uiautomation/testcase/test_mous.py" />
-        <option value="$PROJECT_DIR$/uiautomation/pageobjects/test1.html" />
-        <option value="$USER_HOME$/Desktop/code/jichu/testing" />
-        <option value="$USER_HOME$/Desktop/code/jichu/io_test.py" />
-        <option value="$PROJECT_DIR$/../python-exercise/os_file.py" />
-        <option value="$PROJECT_DIR$/../python-exercise/3.1.py" />
         <option value="$PROJECT_DIR$/uiautomation/test_all.py" />
-        <option value="$PROJECT_DIR$/test_all.py" />
         <option value="$USER_HOME$/Desktop/Django_web/guest/sign/models.py" />
         <option value="$USER_HOME$/Desktop/Django_web/guest/sign/admin.py" />
         <option value="$USER_HOME$/Desktop/Django_web/guest/guest/__init__.py" />
@@ -99,13 +128,45 @@
         <option value="$PROJECT_DIR$/../python-exercise/expert-func/printer.py" />
         <option value="$PROJECT_DIR$/uiautomation/framework/browser_method.py" />
         <option value="$PROJECT_DIR$/../python-exercise/expert-func/类接口.py" />
+        <option value="$PROJECT_DIR$/test_all.py" />
+        <option value="$PROJECT_DIR$/../spider/python爬虫开发与项目实战/beautfulsoup/beautifulsoup.py" />
+        <option value="$PROJECT_DIR$/../spider/python爬虫开发与项目实战/requests1.py" />
+        <option value="$USER_HOME$/PycharmProjects/untitled/app.py" />
+        <option value="$USER_HOME$/PycharmProjects/untitled/app/home/forms.py" />
+        <option value="$USER_HOME$/PycharmProjects/untitled/app/home/__init__.py" />
+        <option value="$USER_HOME$/PycharmProjects/untitled/app/home/views.py" />
+        <option value="$USER_HOME$/PycharmProjects/untitled/app/admin/views.py" />
+        <option value="$USER_HOME$/PycharmProjects/untitled/app/admin/__init__.py" />
+        <option value="$USER_HOME$/PycharmProjects/untitled/app/__init__.py" />
+        <option value="$USER_HOME$/PycharmProjects/untitled/manage.py" />
+        <option value="$USER_HOME$/PycharmProjects/untitled/app/models.py" />
+        <option value="$PROJECT_DIR$/../spider/python爬虫开发与项目实战/requests/maoyantop100.py" />
+        <option value="$PROJECT_DIR$/../spider/python爬虫开发与项目实战/requests/jiep.py" />
+        <option value="$PROJECT_DIR$/../spider/python爬虫开发与项目实战/requests/la.py" />
+        <option value="$PROJECT_DIR$/../python-exercise/RC2.3.3/testcase/test_scene_1.py" />
+        <option value="$PROJECT_DIR$/../python-exercise/RC2.3.3/framework/browser_engine.py" />
+        <option value="$PROJECT_DIR$/../python-exercise/RC2.3.3/lx/selenium-wait.py" />
+        <option value="$PROJECT_DIR$/../python-exercise/WEB/html1.html" />
+        <option value="$PROJECT_DIR$/../python-exercise/RC2.3.3/testcase/test_1.py" />
+        <option value="$PROJECT_DIR$/../spider/python爬虫开发与项目实战/代理IP测试.py" />
+        <option value="D:/MT/my.js" />
+        <option value="D:/MT/portal.html" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="677" />
-    <option name="width" value="697" />
-    <option name="height" value="775" />
+    <option name="x" value="1273" />
+    <option name="width" value="1294" />
+    <option name="height" value="1407" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -115,37 +176,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="automation-testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automation-testing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="expert-func" type="462c0819:PsiDirectoryNode" />
+              <item name="MT" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="E:/python/RC2.3.3" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/MT" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\untitled\app" />
+      <recent name="C:\Users\Administrator\Documents\GitHub\spider\python爬虫开发与项目实战\beautfulsoup" />
       <recent name="C:\Users\Administrator\Documents\GitHub\automation-testing" />
       <recent name="C:\Users\Administrator\Documents\GitHub\automation-testing\uiautomation\testcase" />
       <recent name="C:\Users\Administrator\Documents\GitHub\automation-testing\uiautomation\testcase1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\untitled\app\admin" />
       <recent name="C:\Users\Administrator\Documents\GitHub\automation-testing\uiautomation\testcase1" />
       <recent name="C:\Users\Administrator\Documents\GitHub\automation-testing\uiautomation" />
     </key>
@@ -162,44 +222,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.类接口">
-    <configuration name="类接口" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-exercise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Administrator\Desktop\selenium\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python-exercise/expert-func" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python-exercise/expert-func/类接口.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Testrunner" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="automation-testing" />
+  <component name="RunManager" selected="Python.代理IP测试">
+    <configuration name="html1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/automation-testing/WEB/html1.html" />
+    <configuration name="代理IP测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/uiautomation/testcase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../spider/python爬虫开发与项目实战" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uiautomation/testcase/Testrunner.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../spider/python爬虫开发与项目实战/代理IP测试.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="cosplay_picture" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="browser_engine" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,35 +251,37 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python-exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python-exercise/RC2.3.3/framework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python-exercise/cosplay_picture.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python-exercise/RC2.3.3/framework/browser_engine.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="printer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-exercise" />
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProxyPool" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Administrator\Desktop\selenium\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python-exercise/expert-func" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ProxyPool" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python-exercise/expert-func/printer.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ProxyPool/run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="selenium-wait" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,30 +289,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python-exercise/WEB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python-exercise/RC2.3.3/lx" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python-exercise/WEB/server.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python-exercise/RC2.3.3/lx/selenium-wait.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.server" />
-      <item itemvalue="Python.cosplay_picture" />
-      <item itemvalue="Python.Testrunner" />
-      <item itemvalue="Python.printer" />
-      <item itemvalue="Python.类接口" />
+      <item itemvalue="Python.selenium-wait" />
+      <item itemvalue="Python.browser_engine" />
+      <item itemvalue="JavaScript Debug.html1.html" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.代理IP测试" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.类接口" />
-        <item itemvalue="Python.printer" />
-        <item itemvalue="Python.Testrunner" />
-        <item itemvalue="Python.cosplay_picture" />
-        <item itemvalue="Python.server" />
+        <item itemvalue="Python.代理IP测试" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="JavaScript Debug.html1.html" />
+        <item itemvalue="Python.selenium-wait" />
+        <item itemvalue="Python.browser_engine" />
       </list>
     </recent_temporary>
   </component>
@@ -316,160 +363,66 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="677" y="0" width="697" height="775" extended-state="0" />
+    <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.4825493" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50223213" side_tool="true" weight="0.3131783" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5046948" side_tool="true" weight="0.3170347" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49772382" weight="0.32248062" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49776787" weight="0.31761006" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49530515" weight="0.321065" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49960938" weight="0.34148264" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16774717" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3298217" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3298217" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33178294" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33333334" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.090625" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49776787" visible="true" weight="0.3164933" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33333334" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49772382" weight="0.32248062" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33178294" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50223213" side_tool="true" weight="0.3131783" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python基礎練習/lx.py" />
-    <entry file="file://$PROJECT_DIR$/uiautomation/logs/testlog.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="156" column="53" selection-start-line="156" selection-start-column="53" selection-end-line="156" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium-3.6.0-py3.6.egg/selenium/webdriver/remote/webdriver.py" />
-    <entry file="file://$USER_HOME$/Desktop/code/oop/book.py" />
-    <entry file="file://$USER_HOME$/Desktop/code/gui/text.py" />
-    <entry file="file://$USER_HOME$/Desktop/code/gui/side.py" />
-    <entry file="file://$USER_HOME$/Desktop/code/gui/mainloop.py" />
-    <entry file="file://$USER_HOME$/Desktop/code/gui/menu.py" />
-    <entry file="file://$USER_HOME$/Desktop/code/gui/mvc2.py" />
-    <entry file="file://$USER_HOME$/Desktop/code/gui/mvc.py" />
-    <entry file="file://$USER_HOME$/Desktop/code/jichu/testing" />
-    <entry file="file://$USER_HOME$/Desktop/code/jichu/testing.txt" />
-    <entry file="file://$USER_HOME$/Desktop/code/jichu/io_test.py" />
-    <entry file="file://$PROJECT_DIR$/../python-exercise/os_file.py" />
-    <entry file="file://$PROJECT_DIR$/uiautomation/testcase1/test_mous.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="61" column="59" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_all.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python-exercise/3.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Django_web/guest/guest/__init__.py" />
-    <entry file="file://$USER_HOME$/Desktop/Django_web/guest/guest/settings.py" />
-    <entry file="file://$USER_HOME$/Desktop/Django_web/guest/sign/admin.py" />
-    <entry file="file://$USER_HOME$/Desktop/Django_web/guest/sign/templates/baidu.html" />
-    <entry file="file://$USER_HOME$/Desktop/Django_web/guest/sign/templates/index.html" />
-    <entry file="file://$USER_HOME$/Desktop/Django_web/guest/sign/templates/event_manage.html" />
-    <entry file="file://$USER_HOME$/Desktop/Django_web/guest/sign/templates/guest_manage.html" />
-    <entry file="file://$USER_HOME$/Desktop/Django_web/guest/guest/urls.py" />
-    <entry file="file://$USER_HOME$/Desktop/Django_web/guest/sign/templates/sign_index.html" />
-    <entry file="file://$USER_HOME$/Desktop/Django_web/guest/sign/tests.py" />
-    <entry file="file://$USER_HOME$/Desktop/Django_web/guest/sign/models.py" />
-    <entry file="file://$USER_HOME$/Desktop/Django_web/guest/sign/views.py" />
-    <entry file="file://$PROJECT_DIR$/../python-exercise/sina.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python-exercise/tcp编程.py" />
-    <entry file="file://$PROJECT_DIR$/../python-exercise/UDP_client.py" />
-    <entry file="file://$PROJECT_DIR$/../python-exercise/UDP-server.py" />
-    <entry file="file://$PROJECT_DIR$/../python-exercise/baidu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python-exercise/cosplay_picture.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python-exercise/WEB/html_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="71" column="7" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python-exercise/WEB/server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python-exercise/WEB/hello.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uiautomation/config/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python-exercise/WEB/send_email.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../python-exercise/WEB/new_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-exercise/WEB/send_email.py" />
+    <entry file="file://$PROJECT_DIR$/../python-exercise/WEB/new_file.py" />
     <entry file="file://E:/python/RC2.3.3/testcase/test_new_master_station.py" />
     <entry file="file://$PROJECT_DIR$/uiautomation/framework/module_one.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uiautomation/testcase/test_mous1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/uiautomation/testcase/Testrunner.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -485,20 +438,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uiautomation/testcase/test_new_master_station.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="150" column="58" lean-forward="true" selection-start-line="150" selection-start-column="58" selection-end-line="150" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uiautomation/framework/browser_engine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/uiautomation/framework/browser_method.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-518">
@@ -506,17 +445,287 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../python-exercise/expert-func/printer.py">
+    <entry file="file://$PROJECT_DIR$/../python-exercise/expert-func/printer.py" />
+    <entry file="file://$PROJECT_DIR$/../python-exercise/expert-func/类接口.py" />
+    <entry file="file://$PROJECT_DIR$/uiautomation/framework/browser_engine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="364">
+          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../python-exercise/expert-func/类接口.py">
+    <entry file="file://$PROJECT_DIR$/uiautomation/testcase/test_mous1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="322">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiautomation/testcase/test_new_master_station.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2044">
+          <caret line="150" column="58" lean-forward="true" selection-start-line="150" selection-start-column="58" selection-end-line="150" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spider/python爬虫开发与项目实战/beautfulsoup/beautifulsoup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spider/python爬虫开发与项目实战/autohome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spider/python爬虫开发与项目实战/代理ip批量测试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="41" column="48" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/app/home/forms.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/app/admin/forms.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spider/python爬虫开发与项目实战/requests1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/app/home/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/app/home/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/app/admin/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/app/admin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spider/python爬虫开发与项目实战/requests/jiep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spider/python爬虫开发与项目实战/spider_picture.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-exercise/cosplay_picture.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spider/python爬虫开发与项目实战/requests/maoyantop100.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spider/python爬虫开发与项目实战/requests/la.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-exercise/RC2.3.3/testcase/test_5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-exercise/RC2.3.3/framework/browser_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-exercise/RC2.3.3/testcase/test_4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-exercise/RC2.3.3/testcase/test_scene_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-exercise/WEB/html1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="48" column="50" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-exercise/RC2.3.3/lx/selenium-wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-exercise/RC2.3.3/testcase/test_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="46" column="32" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProxyPool/proxypool/setting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProxyPool/proxypool/scheduler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProxyPool/examples/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProxyPool/examples/proxytest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProxyPool/proxypool/getter.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProxyPool/proxypool/crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spider/python爬虫开发与项目实战/代理IP测试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProxyPool/proxypool/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProxyPool/proxypool/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProxyPool/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/MT/my.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/MT/portal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>
