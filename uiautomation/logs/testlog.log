@@ -446,3 +446,5 @@
 2018-05-22 22:03:15,855 - browser_method - INFO - 出现弹窗
 2018-05-22 22:03:16,203 - browser_method - INFO - 开始截图并保存
 2018-05-22 22:03:16,208 - master station page - INFO - Now, Close and quit the browser.
+2018-06-14 10:16:47,839 - BrowserEngine - INFO - You had select Firefox browser.
+2018-06-14 10:16:47,848 - BrowserEngine - INFO - The test server url is: http://www.cosplay0.com

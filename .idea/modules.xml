@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/automation-testing.iml" filepath="$PROJECT_DIR$/.idea/automation-testing.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/code/.idea/code.iml" filepath="$USER_HOME$/Desktop/code/.idea/code.iml" />
       <module fileurl="file://$PROJECT_DIR$/../python-exercise/.idea/python-exercise.iml" filepath="$PROJECT_DIR$/../python-exercise/.idea/python-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spider/.idea/spider.iml" filepath="$PROJECT_DIR$/../spider/.idea/spider.iml" />
     </modules>
   </component>
 </project>

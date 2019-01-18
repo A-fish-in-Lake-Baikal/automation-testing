@@ -1425,3 +1425,8 @@ Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
 1526997797958	geckodriver::marionette	ERROR	Failed to stop browser process
+1528942608507	geckodriver	INFO	geckodriver 0.20.0
+1528942608542	geckodriver	INFO	Listening on 127.0.0.1:47661
+1528942611529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\M\\AppData\\Local\\Temp\\rust_mozprofile.cNjvnfoFF4Ed"
+Unable to read VR Path Registry from C:\Users\M\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\M\AppData\Local\openvr\openvrpaths.vrpath
